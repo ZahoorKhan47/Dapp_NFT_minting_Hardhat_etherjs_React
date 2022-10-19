@@ -1,4 +1,8 @@
-# Sample Hardhat Project
+## Sample Hardhat-Reactjs Project
+
+# Dapp View
+![alt text](https://github.com/ZahoorKhan47/Dapp_NFT_minting_Hardhat_etherjs_React/blob/main/Screenshot%20(271).png)
+
 
 Deployed address : 0x5Fae79875eAB79dDf2b75A0aAF642e8aAa296317
 
